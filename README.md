@@ -1,2 +1,2 @@
 # Bishry_HelloWorldLabs
-first project in github
+first project
